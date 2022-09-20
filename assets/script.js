@@ -1,1 +1,3 @@
-lol
+var
+
+console.log
