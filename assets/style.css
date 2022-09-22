@@ -5,7 +5,7 @@
 
 body {
     display: inline-flex;
-    font-family: sans-serif;
+    font-family: 'Open Sans', sans-serif;
     background-color: white;
 }
 
@@ -15,4 +15,14 @@ header, footer {
 
 .container {
     background-color: blanchedalmond;
+}
+
+.card {
+    background-color: rgb(210, 230, 232);
+    border: 10px;
+    padding: 20px;
+    border-radius: 20px;
+    width: auto;
+    max-width: fit-content;
+    margin: 10px 20px 0px;
 }
