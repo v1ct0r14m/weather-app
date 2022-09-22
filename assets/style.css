@@ -1,3 +1,13 @@
 * {
     margin: 0;
+    padding: 0;
+}
+
+body { 
+    font-family: sans-serif;
+    background-color: white;
+}
+
+header, footer {
+    background-color: lightblue;
 }
