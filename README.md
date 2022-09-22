@@ -3,14 +3,12 @@ for module 6
 
 ## description
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+The point of the project geared me to create an application that can display the weather for a city a user were to visit or was just curious to see.
+i built this project because i wanted to push myself to create an application i was actually proud , thus far. it should reduce the uncertainty over the current and future weather forecast for searched city, for up to 5 days, while also saving previously searched cities.through this process, i was able to gain an understanding on the capacity web API's have to alter a user's experience, along with construct dynamic or engaging web applications using web API's.
 
 ## installation
 
-n/a - the application is browser-only (at the moment).
+n/a - the application is browser-only.
 
 ## usage
 
@@ -22,8 +20,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## credits
 
-you n me, baybeee
-but mostly me
+victoria mota (VM)
 
 ## license
 n/a
