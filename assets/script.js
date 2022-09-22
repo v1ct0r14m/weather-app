@@ -1,13 +1,17 @@
-var apiUrl = "https://api.openweathermap.org/data/2.5/onecall?lat={lat}&lon={lon}&exclude={part}&appid={API key}"
+let weather = {
+    "apiKey": "1aa9e2f867c7bb69b42d05b93ecab9c5"
+}
+
+var apiUrl = "https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}";
 
 var listEl = document.getElementById("data");
 
 // var requestUrl = "https://api.openweathermap.org/data/2.5/onecall?lat={lat}&lon={lon}&exclude={part}&appid={API key}";
 
-fetch(apiUrl)
-.then(function(response){
-    //convert to JSON object
-    return response.json();
+fetchWeather: function () {
+    fetch(
+        "https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}"     
+.then(response) => response.json();
 })
 .then(function(data){
     //display in html
@@ -19,6 +23,7 @@ fetch(apiUrl)
     }
     // console.log(data)
 });
+
 
 //.catch(function(error) {
     //console.log(error);
