@@ -1,8 +1,15 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ad.DS_Store
 
 =======
 .DS_Store
 >>>>>>> parent of c4f1a03 (test gitignore)
 module-practice.html
+=======
+.DS_Store
+
+module-practice.html
+
+>>>>>>> 3c9960828248ddcf918ce6540d6d6b3ec53df89c
 notes.html
