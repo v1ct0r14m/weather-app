@@ -3,11 +3,16 @@
     padding: 0;
 }
 
-body { 
+body {
+    display: inline-flex;
     font-family: sans-serif;
     background-color: white;
 }
 
 header, footer {
     background-color: lightblue;
+}
+
+.container {
+    background-color: blanchedalmond;
 }
