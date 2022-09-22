@@ -22,4 +22,4 @@ fetch(apiUrl)
 
 //.catch(function(error) {
     //console.log(error);
-});
+//});
