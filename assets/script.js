@@ -21,7 +21,7 @@ fetchWeather: function (city) {
         document.querySelector(".temp").innerHTML = temp + "°";
         document.querySelector(".humidity").innerHTML = "humidity: " + humidity + "%";
         document.querySelector(".wind").innerHTML = "windspeed: " + speed + " m/h";
-    
+    search.log(city)
     }
 };
 
