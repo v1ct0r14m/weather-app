@@ -3,7 +3,7 @@ for module 6
 
 ## description
 
-The point of the project geared me to create an application that can display the weather for a city a user were to visit or was just curious to see.
+the point of the project geared me to create an application that can display the weather for a city a user were to visit or was just curious to see.
 i built this project because i wanted to push myself to create an application i was actually content with in terms of my understanding and application of javascript and side API's, thus far. it should reduce the uncertainty over the current <and future> weather forecast for the searched city <for up to 5 days, while also saving previously searched cities>. through this process, i was able to gain a better understanding on the capacity web API's have to alter a user's experience, due to enabling more dynamic or engaging web applications.
 
 ## installation
