@@ -19,7 +19,7 @@ the purpose of this as it stands is to demonstrate input-based dynamism in the h
 ![alt text](assets/images/app-3.png)
 ![alt text](assets/images/app-4.png)
 
-i've consistently ran into the same error, an index/fetch one, but doubling back with the same set of eyes hasn't been helpful. i wasn't able to unblock myself on this part, but i did want to have a concerted display. i also am content with the progress with the consideration that i have not been able to take in this course by its traditional/chronological route and my grasps on each concepts grows with more time invested. i am happy to have a little container that fetches and functions somewhat. and before you say make an appointment with a tutor, don't. these past 2 weeks have been tormenting. however, these upcoming weeks should be a bit more forgiving. i'll make an appointment with a tutor.
+i've consistently ran into the same error, an index/fetch one, but doubling back with the same set of eyes hasn't been helpful. i've highlighted them in the .JS file. i wasn't able to unblock myself on this part, but i did want to have a concerted display. i also am content with this progress with the consideration that i have not been able to take on this course by its traditional/chronological route and my grasp on each concept grows more with time invested. i am happy to have a little container that fetches and functions somewhat. and before you say make an appointment with a tutor, don't. these past 2-3 weeks have been tormenting. however, these upcoming weeks should be a bit more forgiving. i'll make an appointment with a tutor.
 
 ## credits
 if it weren't for this guy:
